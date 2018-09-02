@@ -8,7 +8,7 @@ Universidad de Sevilla.
 
 ## Resumen
 
-Implementación del videojuego Flappy Bird en VHDL para la FPGA [BASYS2 de Diligent] (https://reference.digilentinc.com/reference/programmable-logic/basys-2/reference-manual). 
+Implementación del videojuego Flappy Bird en VHDL para la FPGA [BASYS2 de Diligent](https://reference.digilentinc.com/reference/programmable-logic/basys-2/reference-manual). 
 
 Para poder jugar es necesario disponer de una FPGA BASYS2, programarla con el archivo .bit del juego y conectarla a un monitor VGA.
 
