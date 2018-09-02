@@ -17,6 +17,6 @@ Para más detalles consultar [memoria.pdf](Memoria.pdf)
 
 ## Autores
 
-**Francisco Javier  Ortiz Bonilla** - [Pogorelich](https://github.com/pogorelich)
-**Francisco José Díaz Romero**
-**Alberto Fuentes Muñoz**
+* **Francisco Javier  Ortiz Bonilla** - [Pogorelich](https://github.com/pogorelich)
+* **Francisco José Díaz Romero**
+* **Alberto Fuentes Muñoz**
